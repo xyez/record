@@ -1,0 +1,1 @@
+The random seed of the child thread is the same by default
